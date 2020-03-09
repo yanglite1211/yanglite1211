@@ -1,6 +1,6 @@
-title:            Slate+Simple Jekyll Theme
-description:      Your site description...
-copyright:        Your Name
+title:            Lite Yang's Blog
+description:      Welcome to Lite's Blog
+copyright:        Lite Yang
 url: # add your custom site url (format: https://example.com)
 
 
@@ -20,7 +20,7 @@ sass:
 permalink: /:categories/:year-:month-:day/:title.html
 
 # Amount of post to show on home page
-paginate: 5
+paginate: 10
 
 #kramdown:
 #  input: GFM
