@@ -2,8 +2,9 @@
 layout: post
 categories: posts
 title: Hello World!
-subtitle: This is my first blog post!
+subtitle: I opened my blog today and this is my first blog post!
 featured-image: /images/Hello-World/Hello-World.jpg
+tages: [bonjour]
 date-string: March 09, 2020
 ---
 
