@@ -4,11 +4,12 @@ title: About
 ---
 <img src="/images/about/LiteYang.jpeg">
 <br>
-<a href="/files/CV_LiteYang.pdf">Curriculum vitae</a>
+<u><b><a href="/files/CV_LiteYang.pdf">Curriculum vitae</a></b></u>
+<br>
 <br>
 This is <b>Lite Yang</b>'s Blog. I use it as a notebook to store and share my computational ideas and pipelines.
 <br>
-If you are interested in <b>injury and regeneration</b>, feel free to check out our single-nucleus RNA-seq data <a href="https://painseq.shinyapps.io/publish/">here</a>.
+If you are interested in <b>injury and regeneration</b>, feel free to check out our single-nucleus RNA-seq data <u><a href="https://painseq.shinyapps.io/publish/">here</a></u>.
 <br>
 <hr>
 <p>
