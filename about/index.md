@@ -3,7 +3,7 @@ layout: post
 title: About
 ---
 
-<h1>This is <b>Lite Yang</b>'s Blog. I will I use it as a notebook to track and share my computational pipelines.<h1>
+<h1>This is <b>Lite Yang</b>'s Blog. I will I use it as a notebook to track and share my computational pipelines.</h1>
 <br>
 If you are interested in <b>injury and regeneration</b>, feel free to check out our single-nucleus RNA-seq data <a href="https://painseq.shinyapps.io/publish/">here</a>.
 <br>
