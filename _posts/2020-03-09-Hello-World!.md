@@ -9,8 +9,7 @@ date-string: March 09, 2020
 
 ## Code Snippets
 
-Syntax highlighting via Rouge
-R code
+Syntax highlighting via Rouge<br />R code
 
 ```r
   print('> Hello World!_')
