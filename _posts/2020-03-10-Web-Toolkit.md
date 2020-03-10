@@ -17,11 +17,13 @@ Check them out!
 
 ## Prose
 [https://prose.io/](https://prose.io/)
+
 <br>Prose is a content editor for GitHub designed for managing websites. It has a nice and simple UI and is good for starter. 
 <hr>
 
 ## Github Pages and Jekyll Tutorial
 [WebJeda youtube page](https://www.youtube.com/channel/UCbOO7d0vVo0kIrkd7m32irg)
+
 <br>Tutorials showing you how to:
 <br>&nbsp;&nbsp;&nbsp;&nbsp;- create a GitHub Pages website (blog host)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;- add a custom domain/subdomain
@@ -34,8 +36,8 @@ Check them out!
 
 ## Github Pages
 [https://pages.github.com/](https://pages.github.com/)
-<br>
-You can create a website directly from a GitHub repository free.
+
+<br>You can create a website directly from a GitHub repository free.
 
 <br>Notes:
 <br>"The default publishing source for user and organization sites is the master branch. If the repository for your user or organization site has a master branch, your site will publish automatically from that branch. You cannot choose a different publishing source for user or organization sites." 
