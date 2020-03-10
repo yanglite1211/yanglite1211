@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: posts
-title: Sample Post
+title: Web Toolkit
 subtitle: This is a toolkit for web and blog development.
 featured-image: /images/Toolkit/Web-Toolkit.png
 tags:
