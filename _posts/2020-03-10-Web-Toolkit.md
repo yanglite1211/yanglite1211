@@ -16,12 +16,16 @@ Check them out!
 
 ## Prose
 [https://prose.io/](https://prose.io/)
+<br>
 Prose is a content editor for GitHub designed for managing websites. It has a nice and simple UI and is good for starter. 
 
 ## Github Pages and Jekyll Tutorial
 [WebJeda youtube page](https://www.youtube.com/channel/UCbOO7d0vVo0kIrkd7m32irg)
+<br>
 Tutorials showing you how to
-	- create a GitHub Pages website (blog host)
+<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;- create a GitHub Pages website (blog host)
+<br>
     - add a custom domain/subdomain
     - create a Jekyll blog (blog structure and theme)
     - create a working contact form
