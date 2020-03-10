@@ -2,7 +2,7 @@
 layout: post
 categories: posts
 title: Build Aggregate Tracks From scATAC-seq
-subtitle: This is a toolkit for web and blog development.
+subtitle: Single-cell ATAC-seq allows scientists to study the chromatin accessibility of a heterogenous tissue at single-cell resolution. However, the sparsity of the scATAC-seq data makes it to recover informative features and to assess variability between cells.
 featured-image: /images/scATAC-seq/track.jpg
 tags:
   - scATAC-seq
