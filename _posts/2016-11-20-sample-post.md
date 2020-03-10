@@ -2,10 +2,13 @@
 layout: post
 categories: posts
 title: Sample Post
-subtitle: This is a test post.
-featured-image: /images/2016-11-19/abstract-1.jpg
-tags: [sample post]
-date-string: NOVEMBER 20, 2016
+subtitle: This is a toolkit for web and blog development.
+featured-image: /images/Toolkit/Web-Toolkit.jpg
+tags:
+  - toolkit
+  - web development
+date-string: 'March 10, 2020'
+published: true
 ---
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
