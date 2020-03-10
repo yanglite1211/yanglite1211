@@ -36,13 +36,13 @@ Check them out!
 [https://pages.github.com/](https://pages.github.com/)
 <br>
 You can create a website directly from a GitHub repository free.
-<p>Notes:</p>
+<br><br>Notes:
 
-<p>"The default publishing source for user and organization sites is the master branch. If the repository for your user or organization site has a master branch, your site will publish automatically from that branch. You cannot choose a different publishing source for user or organization sites." </p>
+<br><br>"The default publishing source for user and organization sites is the master branch. If the repository for your user or organization site has a master branch, your site will publish automatically from that branch. You cannot choose a different publishing source for user or organization sites." 
 
-<p>For example: If user [yanglite1211](https://github.com/yanglite1211) creates a respository named **yanglite1211.github.io**, this is a special GitHub Pages project called **the user site** (Lite Yang's user website). It will be automatically published at [yanglite1211.github.io](yanglite1211.github.io). In this case, the <code>master branch</code> is the only choice for publication, and there is no need to generate a <code>gh-page</code> branch. </p>
+<br><br>For example: If user [yanglite1211](https://github.com/yanglite1211) creates a respository named **yanglite1211.github.io**, this is a special GitHub Pages project called **the user site** (Lite Yang's user website). It will be automatically published at [yanglite1211.github.io](yanglite1211.github.io). In this case, the <code>master branch</code> is the only choice for publication, and there is no need to generate a <code>gh-page</code> branch.
 
-<p>However, if [yanglite1211](https://github.com/yanglite1211) creates a respository named **yanglite1211**, GitHub sees it just as a regular project or a regular GitHub Pages project if you plan to develop a webiste from it. It will be automatically published as a sub-domain at [yanglite1211.github.io/yanglite1211]. In this case, you are able to choose the branch to publish from, and usually <code>gh-pages</code> is recommended.</p>
+<br><br>However, if [yanglite1211](https://github.com/yanglite1211) creates a respository named **yanglite1211**, GitHub sees it just as a regular project or a regular GitHub Pages project if you plan to develop a webiste from it. It will be automatically published as a sub-domain at [yanglite1211.github.io/yanglite1211]. In this case, you are able to choose the branch to publish from, and usually <code>gh-pages</code> is recommended.
 
 <hr>
 
