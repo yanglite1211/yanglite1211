@@ -6,7 +6,7 @@ subtitle: This is a toolkit for Computation Genomics.
 featured-image: /images/Toolkit/Computation-Toolkit.png
 tags:
   - toolkit
-  - Computation
+  - computation
 date-string: 'March 10, 2020'
 published: true
 ---
