@@ -3,7 +3,7 @@ layout: post
 categories: posts
 title: Sample Post
 subtitle: This is a toolkit for web and blog development.
-featured-image: /images/Toolkit/Web-Toolkit.jpg
+featured-image: /images/Toolkit/Web-Toolkit.png
 tags:
   - toolkit
   - web development
@@ -14,25 +14,31 @@ published: true
 Below is just about everything that I've come across to develop and style my blog and website. 
 Check them out!
 
-## Prose
+### Prose
 [https://prose.io/](https://prose.io/)
 <br>
 Prose is a content editor for GitHub designed for managing websites. It has a nice and simple UI and is good for starter. 
+<br>
+<br>
 
-## Github Pages and Jekyll Tutorial
+### Github Pages and Jekyll Tutorial
 [WebJeda youtube page](https://www.youtube.com/channel/UCbOO7d0vVo0kIrkd7m32irg)
 <br>
 Tutorials showing you how to
 <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;- create a GitHub Pages website (blog host)
 <br>
-    - add a custom domain/subdomain
-    - create a Jekyll blog (blog structure and theme)
-    - create a working contact form
-    - edit and add new posts
-    - add Disqus comments module
+	&nbsp;&nbsp;&nbsp;&nbsp;- add a custom domain/subdomain
+<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;- create a Jekyll blog (blog structure and theme)
+<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;- create a working contact form
+<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;- edit and add new posts
+<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;- add Disqus comments module
 
-## Github Pages
+### Github Pages
 [https://pages.github.com/](https://pages.github.com/)
 You can create a website directly from a GitHub repository free.
 Notes:
