@@ -44,7 +44,7 @@ First column:
 
 ### Pipeline and comments
 <p style="color:#bddd9a"> <b>"Demultiplex" fragments.tsv</b> </p>
-<b><p style="color:#84c1d6">Generate .bed file</p></b>
+<p style="color:#84c1d6">Generate .bed file</p>
 <b><p style="color:#aa75d2">Generate .bedGraph file</p></b>
 <b><p style="color:#da91af">Generate .bw file</p></b>
 <b><p style="color:#ffc000">Publish on UCSC Genome Browser</p></b>
