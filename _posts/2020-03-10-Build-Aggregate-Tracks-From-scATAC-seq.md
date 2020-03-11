@@ -26,12 +26,17 @@ published: true
 
 ### Prerequisite
 &nbsp;&nbsp;&nbsp;&nbsp;1. A 10x scATAC-seq dataset with Cell Ranger ATAC output.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;2. Cell type annotation of the dataset.<u><b><a href="https://satijalab.org/seurat/v3.1/atacseq_integration_vignette.html">See an example here.</a></b></u>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;2. Cell type annotation of the dataset. <u><b><a href="https://satijalab.org/seurat/v3.1/atacseq_integration_vignette.html">See an example here.</a></b></u>
 
 ### Workflow
 <img src="/images/scATAC-seq/workflow.PNG">
 
-
+### Pipeline and comments
+<p style="color:#bddd9a">"Demultiplex" fragments.tsv</p>
+<p style="color:#84c1d6">Generate .bed file</p>
+<p style="color:#aa75d2">Generate .bedGraph file</p>
+<p style="color:#da91af">Generate .bw file</p>
+<p style="color:#ffc000">Publish on UCSC Genome Browser</p>
 
 ------------
 <br>Updated on March 10, 2020
