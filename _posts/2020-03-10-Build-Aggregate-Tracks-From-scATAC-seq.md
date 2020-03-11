@@ -44,7 +44,7 @@ published: true
 <b><p style="color:#da91af">Generate .bw file</p></b>
 <b><p style="color:#ffc000">Publish on UCSC Genome Browser</p></b>
 
-------------
+<hr>
 <br>Updated on March 11, 2020
 
 
