@@ -27,6 +27,7 @@ published: true
 ### Prerequisite
 1. A 10x scATAC-seq dataset with Cell Ranger ATAC output.
 <br>We start with a file named fragments.tsv.gz. It's a BED-like tabular file, where each line represents a unique ATAC-seq fragment captured by the assay. 
+
 <pre><code>## 
 ## FALSE  TRUE 
 ##   290  7576</code></pre>
@@ -44,7 +45,7 @@ published: true
 <b><p style="color:#ffc000">Publish on UCSC Genome Browser</p></b>
 
 ------------
-<br>Updated on March 10, 2020
+<br>Updated on March 11, 2020
 
 
 <br>Reference
