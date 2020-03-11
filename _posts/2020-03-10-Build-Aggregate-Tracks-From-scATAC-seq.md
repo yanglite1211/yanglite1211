@@ -24,11 +24,11 @@ published: true
 
 #Let's get started.
 
-###Prerequisite###
+### Prerequisite
 <br>&nbsp;&nbsp;&nbsp;&nbsp;1. A 10x scATAC-seq dataset with Cell Ranger ATAC output.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;2. Cell type annotation of the dataset. [See an example here.](https://satijalab.org/seurat/v3.1/atacseq_integration_vignette.html)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;2. Cell type annotation of the dataset. <u>[See an example here.]</u>(https://satijalab.org/seurat/v3.1/atacseq_integration_vignette.html)
 
-###Workflow###
+### Workflow
 ![]({{site.baseurl}}//images/scATAC-seq/workflow.png)
 
 
