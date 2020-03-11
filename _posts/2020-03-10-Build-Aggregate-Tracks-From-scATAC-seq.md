@@ -14,7 +14,7 @@ subtitle: >-
   problem, one way is to aggregate the data of the same cell types and generate
   ATAC-seq tracks that have deeper sequencing depths while still keeping the
   cell type specificity.
-featured-image: /images/scATAC-seq/track.jpg
+featured-image: /images/scATAC-seq/track.png
 tags:
   - scATAC-seq
   - ATAC-seq
@@ -40,7 +40,7 @@ First column:
 <br>2. Cell type annotation of the dataset. <u><b><a href="https://satijalab.org/seurat/v3.1/atacseq_integration_vignette.html">See an example here.</a></b></u>
 
 ### Workflow
-<img src="/images/scATAC-seq/workflow.PNG">
+<img src="/images/scATAC-seq/workflow.png">
 
 ### Pipeline and comments
 <p style="color:#bddd9a"> <b>"Demultiplex" fragments.tsv</b> </p>
