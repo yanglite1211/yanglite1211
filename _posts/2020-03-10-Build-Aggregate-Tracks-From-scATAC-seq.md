@@ -27,6 +27,10 @@ published: true
 ### Prerequisite
 1. A 10x scATAC-seq dataset with Cell Ranger ATAC output.
 <br>We start with a file named fragments.tsv.gz. It's a BED-like tabular file, where each line represents a unique ATAC-seq fragment captured by the assay. 
+<pre><code>## 
+## FALSE  TRUE 
+##   290  7576</code></pre>
+
 <br>2. Cell type annotation of the dataset. <u><b><a href="https://satijalab.org/seurat/v3.1/atacseq_integration_vignette.html">See an example here.</a></b></u>
 
 ### Workflow
